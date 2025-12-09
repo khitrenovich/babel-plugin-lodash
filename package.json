@@ -8,7 +8,11 @@
     "lodash",
     "modules"
   ],
-  "repository": "lodash/babel-plugin-lodash",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigmacomputing/babel-plugin-lodash.git"
+  },
+  "homepage": "https://github.com/sigmacomputing/babel-plugin-lodash",
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Graeme Yeates <megawac@gmail.com> (https://github.com/megawac)",
